@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><!--  Copyright 2017 BhaShiNi Digitization Services Pvt. Ltd.  Licensed under the Apache License, Version 2.0 (the "License");  you may not use this file except in compliance with the License.  You may obtain a copy of the License at     http://www.apache.org/licenses/LICENSE-2.0   Unless required by applicable law or agreed to in writing, software  distributed under the License is distributed on an "AS IS" BASIS,  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and  limitations under the License.--><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"><properties>	<entry key="0">ಸೊನ್ನೆ</entry>
+	<entry key="1">ಒಂದು</entry>
+	<entry key="2">ಎರಡು</entry>
+	<entry key="3">ಮೂರು</entry>
+	<entry key="4">ನಾಲ್ಕು</entry>
+	<entry key="5">ಐದು</entry>
+	<entry key="6">ಆರು</entry>
+	<entry key="7">ಏಳು</entry>
+	<entry key="8">ಎಂಟು</entry>
+	<entry key="9">ಒಂಬತ್ತು</entry>
+
+	<entry key="10">ಹತ್ತು</entry>
+	<entry key="11">ಹನ್ನೊಂದು</entry>
+	<entry key="12">ಹನ್ನೆರಡು</entry>
+	<entry key="13">ಹದಿಮೂರು</entry>
+	<entry key="14">ಹದಿನಾಲ್ಕು</entry>
+	<entry key="15">ಹದಿನೈದು</entry>
+	<entry key="16">ಹದಿನಾರು</entry>
+	<entry key="17">ಹದಿನೇಳು</entry>
+	<entry key="18">ಹದಿನೆಂಟು</entry>
+	<entry key="19">ಹತ್ತೊಂಬತ್ತು</entry>
+
+	<entry key="20">ಇಪ್ಪತ್ತು</entry>
+	<entry key="2x">ಇಪ್ಪತ್ತ್</entry>
+
+	<entry key="30">ಮೂವತ್ತು</entry>
+	<entry key="3x">ಮೂವತ್ತ್</entry>
+
+	<entry key="40">ನಲವತ್ತು</entry>
+	<entry key="4x">ನಲವತ್ತ್</entry>
+
+	<entry key="50">ಐವತ್ತು</entry>
+	<entry key="5x">ಐವತ್ತ್</entry>
+
+	<entry key="60">ಅರವತ್ತು</entry>
+	<entry key="6x">ಅರವತ್ತ್</entry>
+
+	<entry key="70">ಎಪ್ಪತ್ತು</entry>
+	<entry key="7x">ಎಪ್ಪತ್ತ್</entry>
+
+	<entry key="80">ಎಂಬತ್ತು</entry>
+	<entry key="8x">ಎಂಬತ್ತ್</entry>
+
+	<entry key="90">ತೊಂಬತ್ತು</entry>
+	<entry key="9x">ತೊಂಬತ್ತ್</entry>
+
+	<entry key="100">ನೂರು</entry>
+	<entry key="1xx">ನೂರ</entry>
+
+	<entry key="200">ಇನ್ನೂರು</entry>
+	<entry key="2xx">ಇನ್ನೂರ</entry>
+
+	<entry key="300">ಮುನ್ನೂರು</entry>
+	<entry key="3xx">ಮುನ್ನೂರ</entry>
+
+	<entry key="400">ನಾನೂರು</entry>
+	<entry key="4xx">ನಾನೂರ</entry>
+
+	<entry key="500">ಐನೂರು</entry>
+	<entry key="5xx">ಐನೂರ</entry>
+
+	<entry key="600">ಆರ್ನೂರು</entry>
+	<entry key="6xx">ಆರ್ನೂರ</entry>
+
+	<entry key="700">ಏಳ್ನೂರು</entry>
+	<entry key="7xx">ಏಳ್ನೂರ</entry>
+
+	<entry key="800">ಎಂಟ್ನೂರು</entry>
+	<entry key="8xx">ಎಂಟ್ನೂರ</entry>
+
+	<entry key="900">ಒಂಬೈನೂರು</entry>
+	<entry key="9xx">ಒಂಬೈನೂರ</entry>
+
+	<entry key="x000">ಸಾವಿರ</entry>
+	<entry key="xxxx">ಸಾವಿರದ</entry>
+
+	<entry key="0xxxxx">ಲಕ್ಷ</entry>
+	<entry key="xxxxxx">ಲಕ್ಷದ</entry>
+
+	<entry key="xxxxxxxx">ಕೋಟಿ</entry>
+
+	<entry key=".">ದಶಾಂಶ</entry>
+</properties>

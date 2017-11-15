@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright 2017 BhaShiNi Digitization Services Pvt. Ltd.
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+ 
+    http://www.apache.org/licenses/LICENSE-2.0
+ 
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>	
+	<entry key="!">ಆಶ್ಚರ್ಯ ಚಿಹ್ನೆ</entry>
+	<entry key="&quot;">ಉಲ್ಲೇಖ ಚಿಹ್ನೆ</entry>
+	<entry key="#">ನಂಬರ್</entry>
+	<entry key="$">ಡಾಲರ್</entry>
+	<entry key="%">ಶೇಕಡಾ</entry>
+	<entry key="&amp;">ಮತ್ತು</entry>
+	<entry key="'">ಅಫೊಸ್ಟ್ರೋಫಿ</entry>
+	<entry key="(">ಆವರಣ ಚಿಹ್ನೆ ಪ್ರಾರಂಭ</entry>
+	<entry key=")">ಆವರಣ ಚಿಹ್ನೆ ಮುಕ್ತಾಯ</entry>
+	<entry key="*">ಆಸ್ಟೆರಿಸ್ಕ್</entry>
+	<entry key="+">ಪ್ಲಸ್</entry>
+	<entry key=",">ಅಲ್ಪ ವಿರಾಮ</entry>
+	<entry key="-">ಮೈನಸ್</entry>
+	<entry key=".">ಪೂರ್ಣ ವಿರಾಮ</entry>
+	<entry key="/">ಅಥವಾ</entry>
+	<!-- \u0030 to \u0039 are the English Numbers (0 to 9) -->
+	<entry key=":">ವಿವರಣ ಚಿಹ್ನೆ</entry>
+	<entry key=";">ಅರ್ಧ ವಿರಾಮ</entry>
+	<entry key="&lt;">ಲೆಸ್ ಧಾನ್</entry>
+	<entry key="=">ಈಕ್ವಲ್ ಟು</entry>
+	<entry key="&gt;">ಗ್ರೇಟರ್ ಧಾನ್</entry>
+	<entry key="?">ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ</entry>
+	<entry key="@">ಅಟ್</entry>
+	<!-- \u0041 to \u005A are the English UPPERCASE Alphabets -->
+	<entry key="[">ಆವರಣ ಚಿಹ್ನೆ ಪ್ರಾರಂಭ</entry>
+	<entry key="\">ಅಥವಾ</entry>
+	<entry key="]">ಆವರಣ ಚಿಹ್ನೆ ಮುಕ್ತಾಯ</entry>
+	<!-- Finalize for XOR symbol -->
+	<entry key="^">ಎಕ್ಸಾರ್ ಅಥವಾ ಸರ್ಕಂಫ್ಲೆಕ್ಸ್ ಆಕ್ಸೆಂಟ್</entry>
+	<entry key="_">ಅಂಡರ್ಸ್ಕೋರ್</entry>
+	<entry key="`">ಗ್ರೇವ್ ಆಕ್ಸೆಂಟ್</entry>
+	<!-- \u0061 to \u007A are English LOWERCASE Alphabets -->
+	<entry key="{">ಆವರಣ ಚಿಹ್ನೆ ಪ್ರಾರಂಭ</entry>
+	<!-- Finalize for Bitwise OR symbol -->
+	<entry key="|">ಬಿಟ್ವೈಸ್ ಆರ್ ಅಥವಾ ವರ್ಟಿಕಲ್ ಲೈನ್</entry>
+	<entry key="}">ಆವರಣ ಚಿಹ್ನೆ ಮುಕ್ತಾಯ</entry>
+	<entry key="~">ತಿಲ್ದಹ್</entry>
+	<entry key="×">ಗುಣಿಸುವ ಚಿಹ್ನೆ</entry>
+	<entry key="÷">ಭಾಗಿಸುವ ಚಿಹ್ನೆ</entry>
+	<entry key="‘">ಉಲ್ಲೇಖ ಚಿಹ್ನೆ ಪ್ರಾರಂಭ</entry>
+	<entry key="’">ಉಲ್ಲೇಖ ಚಿಹ್ನೆ ಮುಕ್ತಾಯ</entry>
+	<entry key="“">ಉಲ್ಲೇಖ ಚಿಹ್ನೆ ಪ್ರಾರಂಭ</entry>
+	<entry key="”">ಉಲ್ಲೇಖ ಚಿಹ್ನೆ ಮುಕ್ತಾಯ</entry>
+	<!-- Currencies barring Dollar -->
+	<entry key="¢">ಸೆಂಟ್</entry>
+	<entry key="£">ಪೌಂಡ್ ಸ್ಟೆರ್ಲಿಂಗ್</entry>
+	<entry key="€">ಯೂರೋ</entry>
+	<entry key="₹">ಭಾರತೀಯ ರುಪಾಯಿ</entry>
+</properties>
