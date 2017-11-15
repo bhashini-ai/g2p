@@ -1,1 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?><!--  Copyright 2017 BhaShiNi Digitization Services Pvt. Ltd.  Licensed under the Apache License, Version 2.0 (the "License");  you may not use this file except in compliance with the License.  You may obtain a copy of the License at     http://www.apache.org/licenses/LICENSE-2.0   Unless required by applicable law or agreed to in writing, software  distributed under the License is distributed on an "AS IS" BASIS,  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and  limitations under the License.--><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"><properties>	<entry key="0">பூஜ்ஜியம்</entry>	<entry key="1">ஒன்று</entry>	<entry key="2">இரண்டு</entry>	<entry key="3">மூன்று</entry>	<entry key="4">நான்கு</entry>	<entry key="5">ஐந்து</entry>	<entry key="6">ஆறு</entry>	<entry key="7">ஏழு</entry>	<entry key="8">எட்டு</entry>	<entry key="9">ஒன்பது</entry>	<entry key="10">பத்து</entry>	<entry key="11">பதினொன்று</entry>	<entry key="12">பன்னிரண்டு</entry>	<entry key="13">பதின்மூன்று</entry>	<entry key="14">பதிநான்கு</entry>	<entry key="15">பதினைந்து</entry>	<entry key="16">பதினாறு</entry>	<entry key="17">பதினேழு</entry>	<entry key="18">பதினெட்டு</entry>	<entry key="19">பத்தொன்பது</entry>	<entry key="20">இருபது</entry>	<entry key="2x">இருபத்து</entry>	<entry key="30">முப்பது</entry>	<entry key="3x">முப்பத்து</entry>	<entry key="40">நாற்பது</entry>	<entry key="4x">நாற்பத்து</entry>	<entry key="50">ஐம்பது</entry>	<entry key="5x">ஐம்பத்து</entry>	<entry key="60">அறுபது</entry>	<entry key="6x">அறுபத்து</entry>	<entry key="70">எழுபது</entry>	<entry key="7x">எழுபத்து</entry>	<entry key="80">எண்பது</entry>	<entry key="8x">எண்பத்து</entry>	<entry key="90">தொண்ணூறு</entry>	<entry key="9x">தொண்ணூற்று</entry>	<entry key="100">நூறு</entry>	<entry key="1xx">நூற்று</entry>	<entry key="200">இருநூறு</entry>	<entry key="2xx">இருநூற்று</entry>	<entry key="300">முன்னூறு</entry>	<entry key="3xx">முன்னூற்று</entry>	<entry key="400">நானூறு</entry>	<entry key="4xx">நானூற்று</entry>	<entry key="500">ஐநூறு</entry>	<entry key="5xx">ஐநூற்று</entry>	<entry key="600">அறுநூறு</entry>	<entry key="6xx">அறுநூற்று</entry>	<entry key="700">எழுநூறு</entry>	<entry key="7xx">எழுநூற்று</entry>	<entry key="800">எண்ணூறு</entry>	<entry key="8xx">எண்ணூற்று</entry>	<entry key="900">தொள்ளாயிரம்</entry>	<entry key="9xx">தொள்ளாயிரத்து</entry>	<entry key="3000">மூவாயிரம்</entry>	<entry key="3xxx">மூவாயிரத்து</entry>	<entry key="4000">நாலாயிரம்</entry>	<entry key="4xxx">நாலாயிரத்து</entry>	<entry key="5000">ஐயாயிரம்</entry>	<entry key="5xxx">ஐயாயிரத்து</entry>	<entry key="x000">ஆயிரம்</entry>	<entry key="xxxx">ஆயிரத்து</entry>	<entry key="1xxxxx">லட்சம்</entry>	<entry key="xxxxxx">லட்சத்து</entry>	<entry key="1xxxxxxx">கோடி</entry>	<entry key="xxxxxxxx">கோடியே</entry>	<entry key=".">புள்ளி</entry></properties>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright 2017 BhaShiNi Digitization Services Pvt. Ltd.
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+ 
+    http://www.apache.org/licenses/LICENSE-2.0
+ 
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="0">பூஜ்ஜியம்</entry>
+	<entry key="1">ஒன்று</entry>
+	<entry key="2">இரண்டு</entry>
+	<entry key="3">மூன்று</entry>
+	<entry key="4">நான்கு</entry>
+	<entry key="5">ஐந்து</entry>
+	<entry key="6">ஆறு</entry>
+	<entry key="7">ஏழு</entry>
+	<entry key="8">எட்டு</entry>
+	<entry key="9">ஒன்பது</entry>
+
+	<entry key="10">பத்து</entry>
+	<entry key="11">பதினொன்று</entry>
+	<entry key="12">பன்னிரண்டு</entry>
+	<entry key="13">பதின்மூன்று</entry>
+	<entry key="14">பதிநான்கு</entry>
+	<entry key="15">பதினைந்து</entry>
+	<entry key="16">பதினாறு</entry>
+	<entry key="17">பதினேழு</entry>
+	<entry key="18">பதினெட்டு</entry>
+	<entry key="19">பத்தொன்பது</entry>
+
+	<entry key="20">இருபது</entry>
+	<entry key="2x">இருபத்து</entry>
+
+	<entry key="30">முப்பது</entry>
+	<entry key="3x">முப்பத்து</entry>
+
+	<entry key="40">நாற்பது</entry>
+	<entry key="4x">நாற்பத்து</entry>
+
+	<entry key="50">ஐம்பது</entry>
+	<entry key="5x">ஐம்பத்து</entry>
+
+	<entry key="60">அறுபது</entry>
+	<entry key="6x">அறுபத்து</entry>
+
+	<entry key="70">எழுபது</entry>
+	<entry key="7x">எழுபத்து</entry>
+
+	<entry key="80">எண்பது</entry>
+	<entry key="8x">எண்பத்து</entry>
+
+	<entry key="90">தொண்ணூறு</entry>
+	<entry key="9x">தொண்ணூற்று</entry>
+
+	<entry key="100">நூறு</entry>
+	<entry key="1xx">நூற்று</entry>
+
+	<entry key="200">இருநூறு</entry>
+	<entry key="2xx">இருநூற்று</entry>
+
+	<entry key="300">முன்னூறு</entry>
+	<entry key="3xx">முன்னூற்று</entry>
+
+	<entry key="400">நானூறு</entry>
+	<entry key="4xx">நானூற்று</entry>
+
+	<entry key="500">ஐநூறு</entry>
+	<entry key="5xx">ஐநூற்று</entry>
+
+	<entry key="600">அறுநூறு</entry>
+	<entry key="6xx">அறுநூற்று</entry>
+
+	<entry key="700">எழுநூறு</entry>
+	<entry key="7xx">எழுநூற்று</entry>
+
+	<entry key="800">எண்ணூறு</entry>
+	<entry key="8xx">எண்ணூற்று</entry>
+
+	<entry key="900">தொள்ளாயிரம்</entry>
+	<entry key="9xx">தொள்ளாயிரத்து</entry>
+
+	<entry key="3000">மூவாயிரம்</entry>
+	<entry key="3xxx">மூவாயிரத்து</entry>
+	<entry key="4000">நாலாயிரம்</entry>
+	<entry key="4xxx">நாலாயிரத்து</entry>
+	<entry key="5000">ஐயாயிரம்</entry>
+	<entry key="5xxx">ஐயாயிரத்து</entry>
+	<entry key="x000">ஆயிரம்</entry>
+	<entry key="xxxx">ஆயிரத்து</entry>
+
+	<entry key="1xxxxx">லட்சம்</entry>
+	<entry key="xxxxxx">லட்சத்து</entry>
+
+	<entry key="1xxxxxxx">கோடி</entry>
+	<entry key="xxxxxxxx">கோடியே</entry>
+
+	<entry key=".">புள்ளி</entry>
+</properties>
